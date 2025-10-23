@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hello there ! 👋</h1>
 
 ## About me
-My name is André, i am a `Fullstack developer` living in France 🇫🇷🥖 and currently working for PrestaShop
+My name is André, i am a `Fullstack developer` living in France 🇫🇷🥖 and currently working for BackMarket (ex PrestaShop)
 
-In my spare time i play guitar 🎸, Video Games 🎮 & go climbing with friends 🧗  
+In my spare time i play guitar 🎸, Video Games 🎮 & do some archery 🏹  
 
 <div style="font-size: 10px; display: inline-block;">
     <i>And sometimes i'm working on personal projets but shhhh thats a secret </i> 🤫
@@ -59,6 +59,7 @@ In my spare time i play guitar 🎸, Video Games 🎮 & go climbing with friends
 <div>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
     <img alt="GraphQL Mesh" src="https://img.shields.io/badge/-GraphQL Mesh-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </div>
 
